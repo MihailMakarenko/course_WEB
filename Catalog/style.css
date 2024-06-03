@@ -319,6 +319,10 @@ h1 {
   background: var(--Main-Secondary, #70c05b);
 }
 
+.count-items2 button{
+  background-color: transparent;
+}
+
 .count-items p {
   display: block;
   margin: auto;
